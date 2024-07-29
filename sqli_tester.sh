@@ -1,4 +1,4 @@
-#!/bin/bash
+xx #!/bin/bash
 
 # XOR encoding function
 xor_payload() {

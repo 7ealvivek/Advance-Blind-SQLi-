@@ -27,3 +27,8 @@ Usage Instructions:
 	6.	Run the Script with Custom Payloads:
 
 ./sqli_tester.sh -d example.com -p "your_custom_payload1,your_custom_payload2"
+
+
+
+MUST HAVE THESE TOOL IN GO PATH
+gau| gauplus | katana | hakrawler
